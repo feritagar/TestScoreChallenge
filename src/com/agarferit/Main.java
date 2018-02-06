@@ -2,7 +2,7 @@ package com.agarferit;
 
 public class Main {
 
-    public static void main(String[] args) throws InvalidTestScores {
+    public static void main(String[] args) {
         TestScores testScores = new TestScores(new double[] { 190, 80, 95,78 });
         try
         {
